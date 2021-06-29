@@ -25,7 +25,7 @@ Vue에서 Swiper을 사용하기 위한 vue-awesome-swiper 설치
 **package.json** 추가 후 npm install / yarn install
 
 ```json
-"devDependencies": {
+"dependencies": {
     ...
     "swiper": "^5.4.5",
     "vue-awesome-swiper": "^4.1.1"
